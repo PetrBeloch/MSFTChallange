@@ -5,9 +5,6 @@
         "vscode": {
             "extensions": [
                 "GitHub.copilot"
-            ],
-            "features": [
-                "Powershell"
             ]
         }
     }
